@@ -18,7 +18,8 @@
 If you have a laptop or desktop computer than only following things required
 * Ofcousre a Raspberry Pi 3.
 * A Memory card of 16GB.
-* A Ethernet cable.
-* some jumper wires.
+* A Ethernet cable for accessing raspberry pi.
+* Data cable for power supply.
+* some jumper wires (male and female both).
 * LEDs.
-* (optional) ADC and some sensors ( These depends up on project you are going to build ).
+* (optional) ADC and some sensors ( This depends up on project you are going to build ).
