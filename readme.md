@@ -28,4 +28,8 @@ If you have a laptop or desktop computer than only following things required
 * First of all [Download](https://www.raspberrypi.org/downloads/raspbian/) he raspbian desktop OS from the official website of   raspberry pi. you can download either with torrent or directly zip file.
 * Download the  [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/) to write the os file into sd card.
 * Unzip i.e extract the zip file of the os then you will get file something like "distribution-name.img".
-* t the memory card on which you are going to write the os image
+* insert the memory card on which you are going to write the os image into card reader and attach to your system. Format the memory card.
+* open the Win32DiskImager as adminstrator.
+
+![alt tag](http://www.servethehome.com/wp-content/uploads/2013/03/Win32-Disk-Imager-Raspbian-Image-Selection-from-Synology-NAS.png)
+
