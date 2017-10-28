@@ -1,4 +1,4 @@
-# A guide for project on raspberry pi developement board
+# A Guide for Project on Raspberry pi Developement board
 
 ### what is raspberry pi-
 
