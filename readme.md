@@ -1,4 +1,4 @@
-# A Guide for Project on Raspberry pi Developement board
+# A Guide for Projects on Raspberry pi Developement board
 
 ### what is raspberry pi-
 
@@ -13,3 +13,8 @@
 
 
 ![alt tag](https://i.stack.imgur.com/jAlDp.png)
+
+# Material Required
+If you have a laptop or desktop computer than only following things required
+* Ofcousre a  
+tgttt
