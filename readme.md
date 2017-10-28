@@ -13,6 +13,7 @@
 
 
 ![alt tag](https://i.stack.imgur.com/jAlDp.png)
+                                          Figure:1 Raspberry pi 3
 
 ## Material Required
 If you have a laptop or desktop computer than only following things required
@@ -32,6 +33,6 @@ If you have a laptop or desktop computer than only following things required
 * open the Win32DiskImager as adminstrator.
 
 ![alt tag](http://www.servethehome.com/wp-content/uploads/2013/03/Win32-Disk-Imager-Raspbian-Image-Selection-from-Synology-NAS.png)
-
+                                            Figure:2 Win32DiskImager
 * Select the image file of raspbian os extracted from zip file. Then select the memory card (be careful "do not select another disk by accident"). write the OS image by clicking the "write" button of Win32DiskImager and wait for complete writing.
-* Now you can insert the memory card into respberry pi's 
+* Now you can insert the memory card into respberry pi's card slot. (shown in figure 1.) 
