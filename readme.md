@@ -24,6 +24,8 @@ If you have a laptop or desktop computer than only following things required
 * LEDs.
 * (Optional) ADC and some sensors ( This depends up on project you are going to build ).
 
-## Step-1: To prepare sd card for for booting the operating system ( installing operating system on SD card )
-* First of all [Download](https://www.raspberrypi.org/downloads/raspbian/){:target="_blank"} the raspbian desktop os from the official website of raspberry pi.
-  
+## Step-1: To prepare sd card for for booting the operating system ( installing operating system on SD card using Windows os )
+* First of all [Download](https://www.raspberrypi.org/downloads/raspbian/) he raspbian desktop OS from the official website of   raspberry pi. you can download either with torrent or directly zip file.
+* Download the  [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/) to write the os file into sd card.
+* Unzip i.e extract the zip file of the os then you will get file something like "distribution-name.img".
+* t the memory card on which you are going to write the os image
