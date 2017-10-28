@@ -25,6 +25,5 @@ If you have a laptop or desktop computer than only following things required
 * (Optional) ADC and some sensors ( This depends up on project you are going to build ).
 
 ## Step-1: To prepare sd card for for booting the operating system ( installing operating system on SD card )
-* First of all [Download](https://www.raspberrypi.org/downloads/raspbian/) the raspbian desktop OS from the official website of 
-  Raspberry pi.
+* First of all [Download](https://www.raspberrypi.org/downloads/raspbian/){:target="_blank"} the raspbian desktop os from the official website of raspberry pi.
   
