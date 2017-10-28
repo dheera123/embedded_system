@@ -14,12 +14,17 @@
 
 ![alt tag](https://i.stack.imgur.com/jAlDp.png)
 
-# Material Required
+## Material Required
 If you have a laptop or desktop computer than only following things required
 * Ofcousre a Raspberry Pi 3.
 * A Memory card of 16GB.
-* A Ethernet cable for accessing raspberry pi.
+* An Ethernet cable for accessing raspberry pi.
 * Data cable for power supply.
 * some jumper wires (male and female both).
 * LEDs.
-* (optional) ADC and some sensors ( This depends up on project you are going to build ).
+* (Optional) ADC and some sensors ( This depends up on project you are going to build ).
+
+## Step-1: To prepare sd card for for booting the operating system ( installing operating system on SD card )
+* First of all [Download](https://www.raspberrypi.org/downloads/raspbian/) the raspbian desktop OS from the official website of 
+  Raspberry pi.
+  
