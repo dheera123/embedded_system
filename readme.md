@@ -33,4 +33,5 @@ If you have a laptop or desktop computer than only following things required
 
 ![alt tag](http://www.servethehome.com/wp-content/uploads/2013/03/Win32-Disk-Imager-Raspbian-Image-Selection-from-Synology-NAS.png)
 
-* Select the image file of raspbian os extracted from zip file. Then select the memory card (be careful "do not select another disk by accident"). write the os ge by clicking the "write" button of Win32DiskImager.
+* Select the image file of raspbian os extracted from zip file. Then select the memory card (be careful "do not select another disk by accident"). write the OS image by clicking the "write" button of Win32DiskImager and wait for complete writing.
+* Now you can insert the memory card into respberry pi's 
