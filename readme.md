@@ -1,4 +1,4 @@
-# A Guide for Projects on Raspberry pi Development board
+# Set up Raspberry pi Development board
 
 ### what is raspberry pi-
 
