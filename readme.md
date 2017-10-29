@@ -41,3 +41,4 @@ If you have a laptop or desktop computer than only following things required
                Figure:2 Win32DiskImager
 * Select the image file of raspbian os extracted from zip file. Then select the memory card (be careful "do not select another disk by accident"). write the OS image by clicking the "write" button of Win32DiskImager and wait for complete writing.
 * Now you can insert the memory card into respberry pi's card slot. (shown in figure 1.) 
+* For detail about accessing the pi consider the tab above.
