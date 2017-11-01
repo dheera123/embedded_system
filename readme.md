@@ -19,7 +19,7 @@
                                           Figure:1 Raspberry pi 3
 
 ## Material Required for setup
-If you have a laptop or desktop computer than only following things required
+If you have a laptop than only following things required
 * Ofcousre a Raspberry Pi 3.
 * A Memory card of 16GB.
 * An Ethernet cable for accessing raspberry pi.
@@ -33,7 +33,7 @@ If you have a laptop or desktop computer than only following things required
 * First of all [Download](https://www.raspberrypi.org/downloads/raspbian/) he raspbian desktop OS from the official website of   raspberry pi. you can download either with torrent or directly zip file.
 * Download the  [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/) to write the os file into sd card.
 * Unzip i.e extract the zip file of the os then you will get file something like "distribution-name.img".
-* insert the memory card on which you are going to write the os image into card reader and attach to your PC or Laptop. Format the memory card.
+* insert the memory card on which you are going to write the os image into card reader and attach to your Laptop. Format the memory card.
 * open the Win32DiskImager as adminstrator.
 
 ![alt tag](http://www.servethehome.com/wp-content/uploads/2013/03/Win32-Disk-Imager-Raspbian-Image-Selection-from-Synology-NAS.png)
