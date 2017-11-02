@@ -28,6 +28,6 @@
 
 ![alt tag](https://github.com/dheera123/Set_Up_The_Raspberry_pi/blob/master/images/ssh-win-window.png)
 
-* If you get the output as shown above then hurray..... you are inside the terminal of raspberry pi.
+* If you get the output as shown above then hurray..... :) you are inside the terminal of raspberry pi.
 * You can do almost every thing that you can do in any other linux terminal.
 
