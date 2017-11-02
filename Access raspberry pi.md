@@ -14,7 +14,9 @@
 * in my case ip address of pi was 192.168.1.8. it couldn be diffrent for you some like 192.168.137.1..2..3.. etc.
 * you can also check ip address py pinging the pi using command "ping raspberrypi.mshome.net".
 * after that open the putty enter the address which you got.
+
 ![alt tag](https://github.com/dheera123/Set_Up_The_Raspberry_pi/blob/master/images/putty.JPG)
+
 * make sure ssh is selected in putty. Then click on open.
 
 
