@@ -6,7 +6,7 @@
 * Connect the raspberry pi to the PC through Ethernet cable. you will see that pi's ethernet port will start bliking.
 * connect your laptop to wi-fi or mobile hotspot. you can keep your mobile data off if you are connecting your mobile hotspot because we only need hotspot not data.
 * now goto internet and sharing section in control pannel of windows.in change adapter setting right click in the connected wi-fi. goto properties. select the sharing tab. and allow the internet sharing over "ethernet".
-[!alt tag](https://github.com/dheera123/Set_Up_The_Raspberry_pi/blob/master/images/change-adapter-settings1.gif)
-[!alt tag](https://github.com/dheera123/Set_Up_The_Raspberry_pi/blob/master/images/wireless-modem-properties.gif)
-[!alt tag](https://github.com/dheera123/Set_Up_The_Raspberry_pi/blob/master/images/wireless-terminal-properties.gif)
+![alt tag](https://github.com/dheera123/Set_Up_The_Raspberry_pi/blob/master/images/change-adapter-settings1.gif)
+![alt tag](https://github.com/dheera123/Set_Up_The_Raspberry_pi/blob/master/images/wireless-modem-properties.gif)
+![alt tag](https://github.com/dheera123/Set_Up_The_Raspberry_pi/blob/master/images/wireless-terminal-properties.gif)
 * now goto cmd and run command ipconfig 
