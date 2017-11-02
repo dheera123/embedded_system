@@ -16,10 +16,16 @@
 * after that open the putty enter the address which you got.
 ![alt tag](https://github.com/dheera123/Set_Up_The_Raspberry_pi/blob/master/images/putty.JPG)
 * make sure ssh is selected in putty. Then click on open.
+
+
 ![alt tag](https://github.com/dheera123/Set_Up_The_Raspberry_pi/blob/master/images/FBU2BDUH7NLY7OG.MEDIUM.jpg)
+
+
 * Once the terminal opens write the "pi" in front of "login as" and hit enter.
 * then enter the password which is by default "raspberry".
+
 ![alt tag](https://github.com/dheera123/Set_Up_The_Raspberry_pi/blob/master/images/ssh-win-window.png)
+
 * If you get the output as shown above then hurray..... you are inside the terminal of raspberry pi.
 * You can do almost every thing that you can do in any other linux terminal.
 
