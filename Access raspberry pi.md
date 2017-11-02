@@ -4,4 +4,6 @@
 * [Download](http://www.putty.org/) Putty which is a simple software to access your pi over ethernet.
 * Give the power supply to the raspberry pi through usb cable from your PC, you will see that pi's power led will glow and system led will start blinking. Wait for about 5 second let the pi to be intianlized.
 * Connect the raspberry pi to the PC through Ethernet cable. you will see that pi's ethernet port will start bliking.
-* connect your pc to wi-fi.
+* connect your laptop to wi-fi or mobile hotspot. you can keep your mobile data off if you are connecting your mobile hotspot because we only need hotspot not data.
+* now goto internet and sharing section in control pannel of windows. then click in the connected wi-fi. goto properties. select the sharing tab. and allow the internet sharing over "ethernet".
+* now goto cmd and run command ipconfig 
